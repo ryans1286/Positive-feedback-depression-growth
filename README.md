@@ -3,6 +3,8 @@
  
  R.M. Strickland, M.D. Covington, J.D. Gulley, R.B. Kayastha, J.M. Blackstock (2023). Positive feedback growth of depressions on the debris-covered Ngozumpa Glacier, Nepal, submitted to Geophysical Research Letters.
  
+ If you make use of "voitalov-tail-estimation.py", please refer to and cite https://github.com/ivanvoitalov/tail-estimation 
+ 
  ## Contents:
  
  * figure-2_GRL.png
