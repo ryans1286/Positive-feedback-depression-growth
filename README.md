@@ -43,73 +43,45 @@
      * 0-5_nm_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1_m_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1_nm_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for  his paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1-25_m_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1-25_nm_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1-5_m_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
      * 1-5_nm_output/
        * csv-files/
          * 500/
-           * [11 .csv files for this paramter set]
          * 750/
-           * [11 .csv files for this paramter set]
          * 1000/
-           * [11 .csv files for this paramter set]
          * 1250/
-           * [11 .csv files for this paramter set]
    * pickle-files/
    * tail-estimation-plots/
      * [32 .pdf tail-estimation plots for simulations]
