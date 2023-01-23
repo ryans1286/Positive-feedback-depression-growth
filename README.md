@@ -1,7 +1,7 @@
 # Positive-feedback-depression-growth
  Data, model, and figure generation code to accompany the manuscript:
  
- R.M. Strickland, M.D. Covington, J.D. Gulley, J. Blackstock (2023). Positive feedback growth of depressions on the debris-covered Ngozumpa Glacier, Nepal, submitted to Geophysical Research Letters.
+ R.M. Strickland, M.D. Covington, J.D. Gulley, R.B. Kayastha, J.M. Blackstock (2023). Positive feedback growth of depressions on the debris-covered Ngozumpa Glacier, Nepal, submitted to Geophysical Research Letters.
  
  ## Contents:
  
